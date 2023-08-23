@@ -1,3 +1,6 @@
-.red-container {
-    
+.container {
+    border: solid red 2px;
+}
+h1 {
+    display: inline;
 }
